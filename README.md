@@ -14,3 +14,7 @@ Block your time consuming applications and boost your productivity
 
 ## Usage
 `shutapp.exe -time=[time in minutes] -name=[process.exe]`
+
+## TODO
+1. Add banlist.txt in format `[process.exe] - [time]`
+2. Add GUI
